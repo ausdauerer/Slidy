@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+Pillow
+huggingface_hub
+python-pptx
+groq
